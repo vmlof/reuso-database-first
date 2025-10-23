@@ -23,7 +23,7 @@ public partial class Endereco
 
     public string Cep { get; set; } = null!;
 
-    public bool? IsPrincipal { get; set; }
+    public bool IsPrincipal { get; set; }
 
     public virtual Usuario IdUsuarioNavigation { get; set; } = null!;
 }

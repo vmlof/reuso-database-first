@@ -28,6 +28,11 @@ builder.Services.AddScoped<UsuarioService>();
 builder.Services.AddScoped<ProdutoService>();
 builder.Services.AddScoped<CategoriaService>();
 
+builder.Services.AddScoped<TagTipoService>();
+builder.Services.AddScoped<TagService>();
+builder.Services.AddScoped<EnderecoService>();
+builder.Services.AddScoped<CarrinhoService>();
+
 var app = builder.Build();
 
 app.MapOpenApi();

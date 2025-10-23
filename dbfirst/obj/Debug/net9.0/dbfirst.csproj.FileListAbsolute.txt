@@ -138,3 +138,4 @@ D:\projects\db-first\dbfirst\dbfirst\obj\Debug\net9.0\refint\dbfirst.dll
 D:\projects\db-first\dbfirst\dbfirst\obj\Debug\net9.0\dbfirst.pdb
 D:\projects\db-first\dbfirst\dbfirst\obj\Debug\net9.0\dbfirst.genruntimeconfig.cache
 D:\projects\db-first\dbfirst\dbfirst\obj\Debug\net9.0\ref\dbfirst.dll
+D:\projects\db-first\dbfirst\dbfirst\obj\Debug\net9.0\dbfirst.sourcelink.json
